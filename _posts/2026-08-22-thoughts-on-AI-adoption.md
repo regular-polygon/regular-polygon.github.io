@@ -16,4 +16,4 @@ Here's what I mean:
 - A lot of process knowledge lives in people's heads, and Claude can't read minds yet. Making that knowledge visible to AI means writing it down for the first time.
 - Requirements today often start loose and get refined through iteration until the outcome looks right. That works well person-to-person. It's a different story when you want an AI to act agentically.
 
-So even if some of this AI transformation effort doesn't pan out, there's value in trying. Getting better at capturing process knowledge and specifying outcomes upfront makes us sharper operators whether we end up using AI or not.
+So even if some of this AI transformation effort doesn't pan out, there's value in trying. Getting better at capturing process knowledge and specifying outcomes upfront makes us sharper operators whether we end up embracing AI or not.
